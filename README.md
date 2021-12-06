@@ -46,6 +46,8 @@ Peak times during a day can may remain similar to both the cities, as shown in f
 
 ![Figure 7](https://github.com/div1085/bikesharing/blob/ffa217213919b6ffb410ab0ce474671434bc26be/images/6.png)
 
-Also, a further understanding of demographics of city of Des Moines will also make clear, as to how much usage can be expected based on gender, location, and weekdays that might witness more traffic.
+Also, visualization of a further understanding of demographics of city of Des Moines and comparing it to NYC, will also make clear, as to how much usage can be expected based on gender.
+
+Further, understanding the areas of high peak in NYC is another important point to analysis, if the high traffic areas correlate to either business or tourist location, similar location can be targeted in the city of Des Moines as well. A visualization comparing the similar location thus is another good analysis to have.
 
 
